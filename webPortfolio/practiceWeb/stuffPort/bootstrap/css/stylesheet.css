@@ -1,0 +1,82 @@
+ 
+}.col-md-4{
+    background-color:burlywood;
+
+}
+.col-md-8{
+    background-color:burlywood;
+}
+
+.col-md-2{
+    background-color:cadetblue;
+    background-position:center;
+}
+.col-md-12{
+    background-color: lightsteelblue;
+}
+.topnav {
+    background-color: black;
+  
+}
+    .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+
+        /* Change the color of links on hover */
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        /* Add a color to the active/current link */
+        .topnav a.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+.row{
+    background-color: lightpink;
+}
+.container {
+    background-color: darkolivegreen;
+    outline-width: thick;
+    position: center;
+    margin-top: 5%;
+}
+ul {
+    background-color: darkolivegreen;
+    list-style-type: none;
+    margin: 20px;
+    padding: 15px;
+    overflow:hidden;
+}
+
+li {
+    display: inline;
+}
+    li a {
+        
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+        li a:hover {
+            background-color: brown;
+        }
+li {
+    border-right: 5px  solid red;
+}
+
+    li:last-child {
+        border-right: none;
+    }
+    .active{
+        background-color: coral;
+
+    }
